@@ -28,7 +28,7 @@ public class Interfaz extends javax.swing.JFrame {
         jButton1 = new javax.swing.JButton();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
-        setBackground(new java.awt.Color(204, 153, 255));
+        setBackground(new java.awt.Color(51, 51, 0));
 
         txt_expresion.setBackground(new java.awt.Color(255, 204, 255));
         txt_expresion.setFont(new java.awt.Font("Kristen ITC", 1, 24)); // NOI18N
